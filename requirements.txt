@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+librosa
+soundfile
+textgrid
+pypinyin
+torch
+transformers
+# optional: silero-vad
+# MFA (montreal-forced-aligner 3.4.3) is installed separately in its own conda environment
